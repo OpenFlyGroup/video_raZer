@@ -1,0 +1,6 @@
+[submodule "video_raZer_frontend"]
+	path = video_raZer_frontend
+	url = git@github.com:OpenFlyGroup/video_raZer_frontend.git
+[submodule "video_raZer_backend"]
+	path = video_raZer_backend
+	url = git@github.com:OpenFlyGroup/video_raZer_backend.git
